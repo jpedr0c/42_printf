@@ -1,3 +1,8 @@
+<p align="center">
+<a href="https://github.com/jpedr0c/42_printf">
+<img src="./ft_printf.png" height="120" width="120">
+</a>
+</p>
 <h1 align=center>
   <strong> FT_PRINTF </strong>
 </h1>
